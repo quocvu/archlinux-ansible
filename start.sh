@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "==========================================="
-echo "Setting up your Archlinux PC
+echo "Setting up your Archlinux PC"
 echo "==========================================="
 
 sudo pacman -S ansible
