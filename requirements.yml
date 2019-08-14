@@ -1,0 +1,15 @@
+# archlinux setup
+- src: https://github.com/quocvu/archlinux-setup-ansible
+
+# nodejs
+- src: quocvu.nodejs
+
+# postgresql
+- src: quocvu.postgresql-archlinux
+
+# yaourt
+- src: sbaerlocher.yaourt
+
+# Desktop Environment
+- src: https://github.com/quocvu/gnome-archlinux-ansible
+- src: https://github.com/quocvu/kde-archlinux-ansible

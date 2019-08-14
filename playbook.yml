@@ -1,0 +1,9 @@
+---
+
+- hosts: laptop
+  roles:
+    - { role: archlinux-setup-ansible, hostname: diablo }
+    - role: sbaerlocher.yaourt
+    - role: quocvu.nodejs
+    - role: quocvu.postgresql-archlinux
+    - role: kde-archlinux-ansible
